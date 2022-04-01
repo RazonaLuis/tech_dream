@@ -119,10 +119,6 @@ Flexboxを使用する(②)と横並びになります。
 他にもプロパティはたくさんあるので、  
 興味がある方はGoogleで「Flexbox」などで検索してみてください。
 
-## 使用例
-使用例は以下のWebサイトを確認してください。  
-[サンプルサイト](https://nexseed.netlify.com/html_css/flexbox/)
-
 
 ## コード
 使用例に記載してるHTMLとCSSは以下です。  
