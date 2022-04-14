@@ -8,7 +8,8 @@
 ## 答えの用意
 
 1.img.zipをクリックし、zipファイルをダウンロードしましょう。
-attachment:"./assets/img.zip"
+
+[ダウンロードフォルダー](attachment:"./assets/img.zip")
 
 2.上記zipファイルを解凍しましょう。
 
