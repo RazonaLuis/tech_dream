@@ -20,20 +20,20 @@ Margin,text-alignを使って要素を左右に配置する。
   中身のテキストや画像といったインライン要素の中央寄せは簡単です。親となるブロック要素にtext-align:center;を指定します。
 ```html
   <div class="outer">
-  <div class="inner">
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    <div class="inner">
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    </div>
   </div>
-</div>
 ```
 
 ```css
   .inner{
-  text-align: center;
-}
+    text-align: center;
+  }
 ```
 
-2. marginを使った事例
-  こちらはサイト全体のレイアウトを中央寄せにするときなどに使われます。
+2. marginを使った事例<br>
+  こちらはサイト全体のレイアウトを中央寄せにするときなどに使われます。<br>
   ・中央寄せ
   ※HTLMは上同様
   ```css
@@ -44,7 +44,7 @@ Margin,text-alignを使って要素を左右に配置する。
   }
   ```
   ポイントはwidthの指定が必須であることです。単位「%」で指定すればレスポンシブWebデザインへの対応が可能です。
-  PCビューで最大幅を決めるため、合わせてmax-widthを使うこともあります。
+  PCビューで最大幅を決めるため、合わせてmax-widthを使うこともあります。<br>
 
   ・左よせ
     ```css
@@ -53,7 +53,7 @@ Margin,text-alignを使って要素を左右に配置する。
       max-width: 500px;
     }
     ```
-  そもそもデフォルトで要素は左寄せになっていますのでmarginをしてしなければ左になります。
+  そもそもデフォルトで要素は左寄せになっていますのでmarginをしてしなければ左になります。<br>
 
   ・右寄せ
     ```css
