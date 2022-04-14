@@ -9,7 +9,7 @@
 
 1.img.zipをクリックし、zipファイルをダウンロードしましょう。
 
-[ダウンロードフォルダー](attachment:"./assets/img.zip")
+[ダウンロードフォルダー](attach:"./assets/img.zip")
 
 2.上記zipファイルを解凍しましょう。
 
