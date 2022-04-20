@@ -1,4 +1,4 @@
-<img src="../img/git/github_octcat.png" alt="オクトキャット" style="width: 20%;">
+<img src="./img/git/github_octcat.png" alt="オクトキャット" style="width: 20%;">
 
 # GitHubって何？
 GitHubは、Gitのホスティングサービスです。  
@@ -14,13 +14,13 @@ GitHubでは、Gitでバージョン管理されたファイルをインター�
     * Your Email（メールアドレス）
     * Create a password（パスワード）
 
-<img src="../img/git/github_login.png" alt="GitHubログインについて" style="width: 80%;">
+<img src="./img/git/github_login.png" alt="GitHubログインについて" style="width: 80%;">
 
 ### 2. 登録したメールアドレスに確認用メール（Verify）が届くので、メール本文にあるボタンをクリックして承認してください。 ###
-<img src="../img/git/github_verify.png" alt="GitHub承認" style="width: 80%;">
+<img src="./img/git/github_verify.png" alt="GitHub承認" style="width: 80%;">
 
 ### 3. 自分専用のGitHubアカウントページが作成できました！ ###
-<img src="../img/git/github_mypage.png" alt="マイページ" style="width: 80%;">
+<img src="./img/git/github_mypage.png" alt="マイページ" style="width: 80%;">
 
 # GitHubをいじってみよう！
 1. アカウントの画像を変更してみましょう。
