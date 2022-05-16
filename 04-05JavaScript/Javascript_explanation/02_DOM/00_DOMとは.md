@@ -35,14 +35,14 @@ WEBページの文書構造であるHTMLやスタイリングCSS、コンテン�
 - Webページとプログラミング言語（JavaScript）をつなぐ。
 
 ## DOMツリーとは
-![ロゴ](./img/DOM_tree.png)
+![ロゴ](../01_basic/img/DOM_tree.png)
 <br>
 WEBページが読み込まれた時に、ブラウザ（Chrome,Safari,Firefoxなど）は、
 その読み込まれたページのDOMを形成します。その階層構造のことをDOMツリーと呼びます。
 
 
 ## ノードとは
-![ロゴ](./img/Node.png)
+![ロゴ](../01_basic/img/Node.png)
 <br>
 ノードとは各要素(HTMLではエレメントやタグという)自体のことを表します。
 特定のノードを基準としたときに、その上にあるノードを「親:parent」ノードと表現し、その下にあるノードを「子:childまたはchildren」ノードと表現する。
