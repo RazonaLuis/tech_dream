@@ -492,7 +492,7 @@ php_basic.phpファイルに、次の処理を記述してみましょう。
 配列は、数値や文字列などと同じくデータ型の1つであり、キーと値のペアからなる要素を複数管理することができます。  
 配列は変数とは違い、同じような項目の値を複数管理する場合に有効です。
 
-<img src="http://hackers.nexseed.net/images/curriculum_images/php_basic_1.png" alt="配列イメージ" style="width: 80%;">
+<img src="https://github.com/RazonaLuis/technext/blob/main/09_PHP/img/array.png" alt="配列イメージ" style="width: 80%;">
 
 * 値を一つだけでなく、複数保持することができる型
 * 変数が積み重なったタンスのようなもの
@@ -509,7 +509,7 @@ $var = array(‘xxx’, ‘yyy’, ‘zzz’, ...);
 ### 連想配列
 同じく配列で、キーを持つ配列のことを連想配列と呼びます。
 
-<img src="http://hackers.nexseed.net/images/curriculum_images/php_basic_2.png" alt="配列イメージ" style="width: 80%;">
+<img src="https://github.com/RazonaLuis/technext/blob/main/09_PHP/img/object.png" alt="配列イメージ" style="width: 80%;">
 
 
 * 連想配列とは、構造は配列と同じく、値を複数保持することができる型
