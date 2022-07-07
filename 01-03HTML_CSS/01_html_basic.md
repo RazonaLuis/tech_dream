@@ -43,8 +43,8 @@ HTMLで使用されるタグ要素を紹介したので、
 HTMLは複数のタグで構成されます。
 大きく分けると次のような構造になります。
 
-![構造](../img/html/html_head_body.jpg)
-<!--<img src="../img/html/constraction.png" width="100px">-->
+![構造](./img/html/html_head_body.jpg)
+<!--<img src="./img/html/constraction.png" width="100px">-->
 
 上の構造をHTMLのコードで表すと以下のようになります。  
 以下のコードはどんなWebサイトを作成する場合でも  
@@ -94,7 +94,7 @@ HTML5を使用することを宣言します。
 - 要素
 - 属性
 
-![構造](../img/html/element.jpg)
+![構造](./img/html/element.jpg)
 
 ### コンテンツ
 コンテンツとは実際に画面に表示されるテキストや画像のことです。
@@ -149,7 +149,7 @@ HTMLでWebサイトのどの部分がどういった役割をしているか表�
 属性とは、要素に対して、補足的な情報を追加するものです。  
 開始タグに記述します。
 
-![構造](../img/html/class.jpg)
+![構造](./img/html/class.jpg)
 
 属性には、どのタグにも使用できる**グローバル属性**と、  
 **特定のタグのみでしか使えない属性**の2種類があります。  
@@ -211,7 +211,7 @@ HTMLでWebサイトのどの部分がどういった役割をしているか表�
 `<span></span>`は兄弟要素  
 となります。
 
-![入れ子・親子要素](../img/html/parent_element.jpg)
+![入れ子・親子要素](./img/html/parent_element.jpg)
 
 ### インデント
 インデントとは**字下げ**のことです。  
@@ -316,7 +316,7 @@ HTMLは複数のタグ(要素)を組み合わせて構成されることを説�
 ```
 <!--<br>-->
 ＜実行結果＞
-![ブロック要素](../img/html/block_element.png)
+![ブロック要素](./img/html/block_element.png)
 
 ### インライン要素
 インライン要素は主にブロック要素の子要素として使用されます。  
@@ -338,7 +338,7 @@ HTMLは複数のタグ(要素)を組み合わせて構成されることを説�
 
 
 ＜実行結果＞
-![インライン要素](../img/html/inline_element.png)
+![インライン要素](./img/html/inline_element.png)
 
 
 すでにいくつかタグを紹介してますが、  
@@ -387,7 +387,7 @@ Google chromeにドラックアンドドロップするだけです。 -->
 ```
 
 #### 結果
-![結果](../img/html/h.png)
+![結果](./img/html/h.png)
 
 ---
 
@@ -408,7 +408,7 @@ Google chromeにドラックアンドドロップするだけです。 -->
 ```
 
 #### 結果
-![結果](../img/html/p.png)
+![結果](./img/html/p.png)
 
 ---
 
@@ -433,7 +433,7 @@ Google chromeにドラックアンドドロップするだけです。 -->
 ```
 
 #### 結果
-![結果](../img/html/list.png)
+![結果](./img/html/list.png)
 
 ---
 
@@ -488,7 +488,7 @@ Google chromeにドラックアンドドロップするだけです。 -->
 ```
 
 #### 結果
-![結果](../img/html/table.png)
+![結果](./img/html/table.png)
 
 ---
 
@@ -524,7 +524,7 @@ Google chromeにドラックアンドドロップするだけです。 -->
 ```
 
 ##### 結果
-![結果](../img/html/link.png)
+![結果](./img/html/link.png)
 
 ---
 
@@ -536,12 +536,12 @@ Google chromeにドラックアンドドロップするだけです。 -->
 
 ```html
  <div>
-     <img src="../img/html/technext_logo.webp" alt="TechNext_logo">
+     <img src="./img/html/technext_logo.webp" alt="TechNext_logo">
  </div>
 ```
 
 #### 結果
-![結果](../img/html/technext_logo.webp)
+![結果](./img/html/technext_logo.webp)
 
 ---
 
@@ -592,7 +592,7 @@ Google chromeにドラックアンドドロップするだけです。 -->
 ```
 
 #### 結果
-![結果](../img/html/form.png)
+![結果](./img/html/form.png)
 
 ---
 
