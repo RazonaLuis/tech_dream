@@ -541,7 +541,7 @@ Google chromeにドラックアンドドロップするだけです。 -->
 ```
 
 #### 結果
-![結果](./img/html/technext_logo.webp)
+![結果](./img/html/technext_logo.jpg)
 
 ---
 
