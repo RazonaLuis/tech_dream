@@ -536,7 +536,7 @@ Google chromeにドラックアンドドロップするだけです。 -->
 
 ```html
  <div>
-     <img src="./img/html/technext_logo.webp" alt="TechNext_logo">
+     <img src="./img/html/technext_logo.jpg" alt="TechNext_logo">
  </div>
 ```
 
