@@ -1,4 +1,4 @@
-<img src="http://hackers.nexseed.net/images/curriculum_images/git_logo.png" alt="gitロゴ" style="width: 20%;">
+<img src="./img/git/git_logo.png" alt="gitロゴ" style="width: 20%;">
 
 # Gitって何？
 Gitは、変更内容を細かい単位で記録しておくことができる「**バージョン管理システム**」です。  
@@ -7,7 +7,7 @@ Gitを使えば、いつ誰が何を変更したのかチェックしたり、�
 # バージョン管理とは
 皆さんはPCで何かファイルを作成する際、図のようにファイル名に日付をつけてバックアップしたことはありませんか？
 
-<img src="http://hackers.nexseed.net/images/curriculum_images/git_vcs.png" alt="バージョン管理" style="width: 50%;">
+<img src="./img/git/version.png" alt="バージョン管理" style="width: 50%;">
 
 これも一種のバージョン管理です。  
 作業の途中で「やっぱり変更前の方が良かったかも・・・」と思うこともよくあるのではないでしょうか。
@@ -22,7 +22,7 @@ Gitを使えば、いつ誰が何を変更したのかチェックしたり、�
 **データを保存する単位** のことを **コミット** と言います。  
 変更内容の他に、修正日時、修正した人、コメントを保存することができます。
 
-<img src="http://hackers.nexseed.net/images/curriculum_images/git_commit.png" alt="コミット" style="width: 40%;">
+<img src="./img/git/commit.jpg" alt="コミット" style="width: 40%;">
 
 図のように、 **いつ**、**誰が**、**何を** 変更したかの履歴をひとまとめにしたものがコミットです。  
 コミットをある程度の単位でまとめることで、コミット単位の差分を見たり、コミット単位で変更を元の状態に戻したりすることができます。
@@ -37,7 +37,7 @@ Gitを使えば、いつ誰が何を変更したのかチェックしたり、�
 ## 変更の差分を見る機能 -- ディフ（diff）
 diffは、変更された内容の差分を見る機能です。ファイルがどのように編集されたかをわかりやすく確認することができます。
 
-<img src="http://hackers.nexseed.net/images/curriculum_images/git_diff.png" alt="ディフ" style="width: 40%;">
+<img src="./img/git/diff.jpg" alt="ディフ" style="width: 40%;">
 
 ## 複数のコミットをまとめる機能 -- マージ（marge）
 マージは、複数のコミットをまとめる機能です。  
@@ -48,7 +48,7 @@ diffは、変更された内容の差分を見る機能です。ファイルが�
 <html>
 <head></head>
 <body>
-Welcome to NexSeed!
+Welcome to Technext!
 </body>
 </html>
 ```
